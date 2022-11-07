@@ -27,7 +27,7 @@ p {
 .logo_place_header {
   position: absolute;
   top: 30px;
-  left: 64px
+  left: 64px;
 }
 .header__title {
   width: 730px;
@@ -239,8 +239,6 @@ p {
 .table__row_theme_dark {
   margin-top: 80px;
 }
-
-/* и элемента с модификатором вида ключ-значение */
 .table__cell_theme_dark {
   width: 200px;
 }
