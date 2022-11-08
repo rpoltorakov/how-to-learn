@@ -238,7 +238,6 @@ p {
   background-color: #1f1f1f;
   position: relative;
   overflow: hidden;
-  position: relative;
   z-index: 1;
 }
 .kaufman__triangle {
