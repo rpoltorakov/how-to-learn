@@ -235,6 +235,7 @@
 }
 .kaufman__triangle {
   background-image: url(../images/kaufman-triangle.svg);
+  background-size: contain;
   position: absolute;
   right: -210px;
   top: 0;
@@ -252,6 +253,7 @@
   color: white;
 }
 .table__cell_theme_dark {
+  margin: 80px 0 0 0;
   width: 100%;
   max-width: 200px;
 }
